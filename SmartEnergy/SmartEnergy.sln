@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartEnergyWeb", "SmartEnergyWeb\SmartEnergyWeb.csproj", "{22D260B7-0E85-407F-961B-E07A86075A6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartEnergyWeb", "SmartEnergyWeb\SmartEnergyWeb.csproj", "{54B3BD73-14E2-4DFB-A897-103139DCC447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartEnergyWeb.Tests", "SmartEnergyWeb.Tests\SmartEnergyWeb.Tests.csproj", "{C9AAFDBC-9067-476B-A8A8-AE13EFE667F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{22D260B7-0E85-407F-961B-E07A86075A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22D260B7-0E85-407F-961B-E07A86075A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22D260B7-0E85-407F-961B-E07A86075A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22D260B7-0E85-407F-961B-E07A86075A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B3BD73-14E2-4DFB-A897-103139DCC447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B3BD73-14E2-4DFB-A897-103139DCC447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B3BD73-14E2-4DFB-A897-103139DCC447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B3BD73-14E2-4DFB-A897-103139DCC447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9AAFDBC-9067-476B-A8A8-AE13EFE667F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AAFDBC-9067-476B-A8A8-AE13EFE667F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AAFDBC-9067-476B-A8A8-AE13EFE667F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AAFDBC-9067-476B-A8A8-AE13EFE667F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
